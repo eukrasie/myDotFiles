@@ -15,8 +15,6 @@ From here on out, use [Package Control](https://sublime.wbond.net/browse) to ins
 
 Install [Soda Theme](http://buymeasoda.github.io/soda-theme/) for some UI customisations. You'll need to restart Sublime after installation for the changes to take effect.
 
-I prefer the classic tab styles and install [the Expresso Soda and Monokai Soda colour schemes](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip).
-
 ## Add Some Useful Packages
 
 All installed with Package Manager. `⌘`+`Shift`+`P` and type `install`. Then start typing the name of the extension you want to install.
@@ -70,6 +68,7 @@ All installed with Package Manager. `⌘`+`Shift`+`P` and type `install`. Then s
 Accessible via: `SublimeText` &rarr; `Preferences` &rarr; `Settings – User`, or with `⌘`+`,'.'
 
 This is a JSON file of custom user configuration settings. Kept in alphabetical order for easy reference.
+This setting is inspired by [ijy's setting](https://gist.github.com/ijy/7399688) and adjusted by the setting of [TaylorOtwell](https://medium.com/@taylorotwell/how-i-work-a22010d1ad82).
 
 **Note:** *As a JSON file no comments can be included. Any you add will be stripped out on saving.*
 ```
