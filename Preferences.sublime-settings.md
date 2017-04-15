@@ -1,4 +1,4 @@
-'''
+```
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
@@ -39,4 +39,4 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
-'''
+```
