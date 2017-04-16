@@ -78,7 +78,7 @@ This setting is inspired by [ijy's setting](https://gist.github.com/ijy/7399688)
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": false,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"ensure_newline_at_eof_on_save": true,
